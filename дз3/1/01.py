@@ -32,4 +32,4 @@ while True:
    answer = input("Дальше? y/n: ")
 
    if answer != "y":
-    exit()
+       break
